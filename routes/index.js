@@ -47,11 +47,18 @@ router.get('/', (req, res) => {
 
 router.post('/login', (req, res) => {
     const id = req.body.escid;
-    console.log(id)
+    
         employees.forEach(look =>{
-            console.table(look.employeeID)
-        })
-        // res.redirect('/employeeList');
+            if(look.employeeID === id){ 
+              res.redirect('/employeeList'); 
+            } 
+        });
+        res.send(`<div style="margin-left: 40%;margin-top:10%; "><h1> 
+        Sorry you do not belong here. ❌
+        </h1>
+        <img src="/img/giphy.gif" alt="fig" style="width: 30%;"></div>`
+        )
+       
 });
 
 router.get('/employeeList', (req, res) => {
@@ -69,18 +76,17 @@ router.get('/todoList', async (req, res)=>{
 
 router.post('/verify', (req, res) => {
     const id = req.body.escid;
-    res.redirect('/todoList');
-    // if(id){
-    //    for(one of employees) {
-    //     if(one.employeeID === id){
-    //          res.redirect('/todoList');
-    //     } else {
-    //         res.redirect('/employeeList');
-    //     } 
-    //    } 
-    // } else {
-    //     return res.redirect('/employeeList');
-    // }
+    
+        employees.forEach(look =>{
+            if(look.employeeID === id){ 
+               res.redirect('/todolist')
+            } 
+        });
+        res.send(`<div style="margin-left: 40%;margin-top:10%; "><h1> 
+        Wrong ID Please. ❌
+        </h1>
+        <img src="/img/giphy.gif" alt="fig" style="width: 30%;"></div>`)
+  
 });
 
 
