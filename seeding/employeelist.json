@@ -1,0 +1,119 @@
+[
+    {
+        "avatar": "../img/a.jpg",
+        "employeeID": "ES100",
+        "name": "Gery Simons",
+        "gender": "Male",
+        "department": "Production",
+        "email": "gerysimons@hotmail.com",
+        "contact": "0245738490"
+    },
+    {
+        "avatar": "../img/y.jpg",
+        "employeeID": "ES101", 
+        "name": "Beauty Karl",
+        "gender": "Female",
+        "department": "Production",
+        "email": "karls@hotmail.com",
+        "contact": "0544123467"
+    },
+    {
+        "avatar": "../img/l.jpg",
+        "employeeID": "ES102",
+        "name": "Shrubb Joshua",
+        "gender": "Male",
+        "department": "IT service",
+        "email": "jpshua@hotmail.com",
+        "contact": "0209876521"
+    },
+    {
+        "avatar": "../img/x.jpg",
+        "employeeID": "ES103",
+        "name": "Zulema Fatima",
+        "gender": "Female",
+        "department": "HR",
+        "email": "fatimaz@hotmail.com",
+        "contact": "0242669944"
+    },
+    {
+        "avatar": "../img/f.jpg",
+        "employeeID": "ES104",
+        "name": "Vue Smart",
+        "gender": "Male",
+        "department": "IT service",
+        "email": "vuemart@hotmail.com",
+        "contact": "0201234586"
+    },
+
+    {
+        "avatar": "../img/q.jpg",
+        "employeeID": "ES105",
+        "name": "Salray Benz",
+        "gender": "Female",
+        "department": "HR",
+        "email": "benzsa@hotmail.com",
+        "contact": "0241809765"
+    },
+
+    {
+        "avatar": "../img/v.jpg",
+        "employeeID": "ES106",
+        "name": "Ina Steptens",
+        "gender": "Male",
+        "department": "Finance Manager",
+        "email": "inastens@hotmail.com",
+        "contact": "0278200511"
+    },
+
+    {
+        "avatar": "../img/e.jpg",
+        "employeeID": "ES107",
+        "name": "Diamond Wonders",
+        "gender": "Female",
+        "department": "Research Dept.",
+        "email": "wonders@hotmail.com",
+        "contact": "0261983476"
+    },
+
+    {
+        "avatar": "../img/g.jpg",
+        "employeeID": "ES108",
+        "name": "Wan Bissaka",
+        "gender": "Male",
+        "department": "Marketing",
+        "email": "wansika@hotmail.com",
+        "contact": "0200123456"
+    },
+
+    {
+        "avatar": "../img/d.jpg",
+        "employeeID": "ES109",
+        "name": "Ellen Dengeneres",
+        "gender": "Female",
+        "department": "Finance Manager",
+        "email": "denellen@hotmail.com",
+        "contact": "0267131216"
+    },
+
+    {
+        "avatar": "../img/s.jpg",
+        "employeeID": "ES110",
+        "name": "Sam Rocks",
+        "gender": "Male",
+        "department": "Research Dept.",
+        "email": "srocks@hotmail.com",
+        "contact": "0209864586"
+    },
+
+    {
+        "avatar": "../img/b.jpg",
+        "employeeID": "ES111",
+        "name": "Cynthia Weeks",
+        "gender": "Female",
+        "department": "Marketing",
+        "email": "cweeks@hotmail.com",
+        "contact": "0277065531"
+    }
+    
+    
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "activity": "Prepare Monthly Budget",
+        "done": true,
+        "created_at": "21-04-2020"
+    },   
+    {
+        "activity": "Attend meetings",
+        "done": false,
+        "created_at": "21-04-2020"
+    },   
+    {
+        "activity": "Respond to mails",
+        "done": true,         
+        "created_at": "21-04-2020"
+    },   
+    {
+        "activity": "Debung codes",
+        "done": false,
+        "created_at": "21-04-2020"
+    },  
+
+    {
+        "activity": "Prepare proposal",
+        "done": true,
+        "created_at": "21-04-2020"
+    }, 
+
+    {
+        "activity": "Presentation",
+        "done": false,
+        "created_at": "21-04-2020"
+    } ,
+
+    {
+        "activity": "Close contract",
+        "done": true,
+        "created_at": "21-04-2020"
+    },
+
+    {
+        "activity": "Lecture new employees",
+        "done": false,
+        "created_at": "21-04-2020"
+    },
+
+    {
+        "activity": "Prepare inventories",
+        "done": true,
+        "created_at": "21-04-2020"
+    } ,
+
+    {
+        "activity": "interview customers and collect data",
+        "done": false,
+        "created_at": "21-04-2020"
+    } ,
+
+    {
+        "activity": "Advertizing",
+        "done": false,
+        "created_at": "21-04-2020"
+    } ,
+
+    {
+        "activity": "Write some codes",
+        "done": false,
+        "created_at": "21-04-2020"
+    }   
+]
+
+    
